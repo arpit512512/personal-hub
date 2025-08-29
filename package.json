@@ -1,0 +1,13 @@
+{
+  "name": "personal-hub",
+  "version": "1.0.0",
+  "description": "Personal hub with website",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "npx serve website -p 3000",
+    "dev": "npx serve website -p 3000"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
