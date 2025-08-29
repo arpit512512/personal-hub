@@ -1,0 +1,32 @@
+{
+  "name": "arpit-chaudhary-website",
+  "version": "1.0.0",
+  "description": "Personal website for Arpit Chaudhary - ML Infrastructure Engineer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "start": "npx serve . -p 3000",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "personal-website",
+    "portfolio",
+    "ml-infrastructure",
+    "ai",
+    "static-site"
+  ],
+  "author": "Arpit Chaudhary",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/personal-hub.git"
+  },
+  "homepage": "https://your-domain.vercel.app",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
