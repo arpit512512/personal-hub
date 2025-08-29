@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npx serve . -p 3000",
     "start": "npx serve . -p 3000",
-    "build": "echo 'No build step required for static site'",
+    "build": "mkdir -p public && cp *.html *.HEIC *.txt *.xml *.json public/ 2>/dev/null || true",
     "deploy": "vercel --prod"
   },
   "keywords": [
