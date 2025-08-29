@@ -1,6 +1,10 @@
-# Personal Website
+# Arpit Chaudhary - Personal Website
 
-Clean, modern personal website built with vanilla HTML, CSS, and JavaScript.
+Personal website for Arpit Chaudhary, ML Engineer focused on AI infrastructure and distributed training systems.
+
+## 🌐 Live Site
+
+**Production:** [website-b9qyok2eq-achaudhary512-4168s-projects.vercel.app](https://website-b9qyok2eq-achaudhary512-4168s-projects.vercel.app)
 
 ## 🚀 Quick Start
 
@@ -8,20 +12,46 @@ Clean, modern personal website built with vanilla HTML, CSS, and JavaScript.
 # Local development
 npm run dev
 
-# Or use Python
-python -m http.server 8000
+# Or serve directly
+npx serve . -p 3000
 ```
+
+## 📄 Site Structure
+
+- **Home** (`index.html`) - Welcome and introduction
+- **About** (`about.html`) - Personal background and journey
+- **Research** (`research.html`) - Academic publications and work
+- **Contact** (`contact.html`) - Contact links and Calendly integration
+
+## ✨ Features
+
+- Clean, minimalist design
+- Multi-page navigation
+- Calendly scheduling integration
+- Responsive mobile layout
+- Professional contact options
+- Personal photo and branding
 
 ## 🌐 Deploy
 
-1. Push to GitHub
-2. Connect to Vercel
-3. Deploy automatically
+```bash
+# Deploy to Vercel
+npx vercel --prod --yes
 
-See `DEPLOYMENT.md` for details.
+# Or use npm script
+npm run deploy
+```
 
-## 📝 Customize
+## 📝 Content Updates
 
-- Update content in `index.html`
-- Modify colors in CSS variables
-- Update links and contact info
+- **Personal info**: Update content in respective HTML files
+- **Styling**: Modify CSS variables in each file's `<style>` section
+- **Contact**: Update Calendly links and social media URLs
+- **Images**: Replace `IMG_8682.HEIC` with your profile photo
+
+## 🛠️ Tech Stack
+
+- Vanilla HTML5, CSS3, JavaScript
+- Responsive design with CSS Grid/Flexbox
+- SVG icons for social links
+- Vercel for hosting and deployment
