@@ -1,7 +1,7 @@
 {
   "name": "arpit-chaudhary-website",
   "version": "1.0.0",
-  "description": "Personal website for Arpit Chaudhary - ML Infrastructure Engineer",
+  "description": "Personal website for Arpit Chaudhary - ML Engineer",
   "main": "index.html",
   "scripts": {
     "dev": "npx serve . -p 3000",
