@@ -4,7 +4,7 @@ Personal projects and professional website for Arpit Chaudhary, ML Engineer.
 
 ## 🌐 Live Website
 
-**Production:** https://website-b9qyok2eq-achaudhary512-4168s-projects.vercel.app
+**Production:** https://arpitc.xyz/
 
 ## 📁 Structure
 
@@ -42,8 +42,3 @@ npm run deploy
 - **Deployment:** Vercel
 - **Integrations:** Calendly scheduling
 
-## 📞 Contact
-
-- **Email:** achaudhary512@gmail.com  
-- **LinkedIn:** [linkedin.com/in/arpit717](https://www.linkedin.com/in/arpit717)
-- **Schedule:** [30min call](https://calendly.com/arpitchaudhary/30min)
