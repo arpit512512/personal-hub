@@ -4,7 +4,7 @@ Personal projects and professional website for Arpit Chaudhary, ML Engineer.
 
 ## 🌐 Live Website
 
-**Production:** https://arpitc.xyz/
+**Production:** https://arpitc.xyz
 
 ## 📁 Structure
 
